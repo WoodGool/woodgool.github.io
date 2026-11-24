@@ -5,7 +5,7 @@ window.WOODGOOL = {
   email: 'woodgool333@gmail.com',
   whatsappQuito: '593980873462', // Respaldo Quito / Tumbaco
   whatsappIbarra: '593989347024', // Respaldo Ibarra / Zona Norte
-  website: 'https://ricciyazigi.github.io/woodgool/',
+  website: 'https://woodgol.github.io/',
   priceRegular: 89,
   priceLaunch: 75,
   defaultLogo: 'assets/logos/03-taller.svg',
